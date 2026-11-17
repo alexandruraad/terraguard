@@ -50,7 +50,7 @@ Scan your Terraform, CloudFormation, Kubernetes, Dockerfiles, and Helm charts fo
 ### 1. Setup
 
 ```bash
-git clone https://github.com/XionDot/terraguard.git
+git clone https://github.com/alexandruraad/terraguard.git
 cd terraguard
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
